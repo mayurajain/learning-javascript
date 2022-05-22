@@ -2,7 +2,7 @@
 //Syntax
 // xyz?true:false;
 
-var boolVariable=false;
+var boolVariable=true;
 boolVariable?console.log("Bool Var was set as true"):console.log("Bool Var was set as false");
 
 // SECTION - "Falsy"
