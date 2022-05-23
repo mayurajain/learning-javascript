@@ -1,6 +1,6 @@
 // SECTION - Switch case is also same as in different language
-
-var userType = "Demo"
+// TODO - Situation to use switch case to find out what access to grant for a particular user
+var userType = "AdvanceUser"
 
 switch(userType){
     case "BasicUser":
