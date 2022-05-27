@@ -1,1 +1,1 @@
-// SECTION - Foreach
+// SECTION - Foreach is kind of same as in other language
