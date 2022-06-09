@@ -13,10 +13,12 @@ let randomNumber3=Math.random()*10+1;
 console.log(Math.floor(randomNumber3));
 
 // TODO - Find more about random numbers in javascript from mdn documentation
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 
 let number=3.53636252525;
 console.log(number.toFixed(4))
 
 // TODO - Find more about numbers and methods on it in javascript from mdn documentation
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
 
 
